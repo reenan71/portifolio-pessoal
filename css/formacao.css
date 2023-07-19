@@ -125,14 +125,6 @@ left: -6px;
 top: -4px;
 }
 
-@media (max-width: 1000px){
-  .formacao-container::before{
-    left: 840px;
-  }
-  .formacao-container::after{
-    left: 20px;
-  }
-}
 @media(max-width: 800px){
   .formacao-container{
     grid-template-columns: 1fr;
