@@ -26,22 +26,11 @@
 @media(max-width: 800px){
   .sobre{
     grid-template-columns: 1fr;
-    margin: 0 auto;
-    gap: 40px;
-  }
-  .subtitulo{
-  padding: 10px 40px;
   }
 .sobre-texto{
   border: 4px solid #FDE021;
   margin: 0 auto;
 }
-}
-
-@media (max-width: 1100px){
-  .sobre-texto::before{
-    left: 390px;
-  }
 }
 
 
