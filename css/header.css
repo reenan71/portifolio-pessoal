@@ -9,7 +9,7 @@
 .header-menu {
   display: flex;
   gap: 40px;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
 }
 
 .header-menu a {
